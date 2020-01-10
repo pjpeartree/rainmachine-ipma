@@ -1,7 +1,7 @@
 # rainmachine-ipma
 Instituto Português do Mar e da Atmosfera parser for the RainMachine sprinkler controller.
 
-This parser was created to get local forecasts in Portugal from the Instituto Português do Mar e da Atmosfera (IPMA).  This parser uses the IPMA API available at [https://api.ipma.pt/](https://api.ipma.pt/).
+This parser was created to get local forecasts in Portugal from the Instituto Português do Mar e da Atmosfera (IPMA) available at [https://api.ipma.pt/](https://api.ipma.pt/).
 
 ## Setup
 1. Download the file [ipma-parser.py](https://raw.githubusercontent.com/pjpeartree/rainmachine-ipma/master/ipma-parser.py)
